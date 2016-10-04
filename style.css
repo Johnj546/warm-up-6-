@@ -84,6 +84,17 @@ img {
 /*Mobile styling*/
 /* 400px*/
 
+@media(max-width:400px){
+  .intro{
+    font-family: monospace;
+  }
+  img { 
+    height: 300px; 
+  }
+  p{ 
+    font-size:100px;
+  }
+}
 
 
 
